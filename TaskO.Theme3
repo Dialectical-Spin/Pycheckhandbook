@@ -1,0 +1,6 @@
+i=0
+for x in range(int(input())):
+    x=input()
+    if "зайка" in x:
+        i+=1
+print(i)
